@@ -34,5 +34,5 @@ An example demo of:
 2. Parsing the test
 3. Prediction on the text
 
-is given in `example.py`.
+is given in `example_usage.py`. THis can be ran by `python example_usage.py`
 
